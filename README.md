@@ -1,0 +1,2 @@
+# screensaver
+In this project, we have to generate 2D screen saver on console of LCD ( Liquid Color Display) interfaced with SPI (serial peripheral interface) bus of LPC 1769 by studying the theoretical graphics engine design. . In screen saver, squares of random size will appear at random position of console and will shrink and rotate counter clock wise .With the help of this project we can understand how we can transfer data from CPU module to LCD via serial communication.
